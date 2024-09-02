@@ -1,0 +1,13 @@
+# I like WebKit
+BasedOnStyle: WebKit
+
+# Do not reorder header files by name
+SortIncludes: false
+
+# Use 2-space indentation
+IndentWidth: 2
+TabWidth: 2
+UseTab: Never  # Use spaces for indentation
+
+# Allow my single line cases
+AllowShortCaseLabelsOnASingleLine: true
